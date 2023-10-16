@@ -55,7 +55,5 @@
 
 - Email : jkll91183@naver.com  
   
-   
-## GitHub State
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=young91183&show_icons=true&theme=radical)
-
+  
+#### 제 GitHub를 방문해주셔서 감사합니다.
