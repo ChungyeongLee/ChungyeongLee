@@ -39,7 +39,7 @@
 ## Project
 
 - 감정일기 기반 심리상담 및 플레이리스트 추천 서비스: KDT 해커톤 1차 통과 (현재 진행 중)  
-  [AI Restful_API](), [Spring_CRUD_API](https://github.com/young91183/Toy_Diary_AI_API)  
+  [AI Restful_API](https://github.com/toy-f-rebellion/toy_AI_Flask_api), [Spring_CRUD_API](https://github.com/young91183/Toy_Diary_AI_API)  
     
 - Chat GPT 기반 GORW코칭 실습 웹 서비스 : KT AIVLE School 3기 Big Project 최우수상 수상  
   [Django_Web_Project](https://github.com/young91183/Toy_Diary_AI_API)  
