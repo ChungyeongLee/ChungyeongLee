@@ -48,7 +48,7 @@
   [AI 모델 설계 및 검증과정](https://github.com/young91183/KT_AI_Hackathon)    
       
 - 백준 문제풀이 모음 집: 알고리즘 스터디 참여를 위한 코딩테스트 문제 풀이 정리 공간  
-  [문제풀이_보러가기](https://github.com/young91183/KT_AI_Hackathon)    
+  [문제풀이_보러가기](https://github.com/young91183/Beak_Joon_python)    
   
       
 ## Contect  
