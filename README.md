@@ -44,7 +44,7 @@
 - Chat GPT 기반 GORW코칭 실습 웹 서비스 : KT AIVLE School 3기 Big Project 최우수상 수상  
   [Django_Web_Project](https://github.com/young91183/Toy_Diary_AI_API)  
     
-- KT 통신망 안정성 확보를 위한 인공지능 해커톤: 분야 2 전담해 정확도 86.7%(25위) 달성  
+- KT 통신망 안정성 확보를 위한 인공지능 해커톤: 정확도 86.7%로 25위
   [AI 모델 설계 및 검증과정](https://github.com/young91183/KT_AI_Hackathon)    
       
 - 백준 문제풀이 모음 집: 알고리즘 스터디 참여를 위한 코딩테스트 문제 풀이 정리 공간  
