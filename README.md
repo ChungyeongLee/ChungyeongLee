@@ -12,9 +12,9 @@
 ## Skill  
 
 <div>- 언어 :  
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=JAVA&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
@@ -32,9 +32,15 @@
 </div>
 <div>- 클라우드 서버 :  
 	<img src="https://img.shields.io/badge/AWS-232f3e?Fstyle=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569a31?style=flat&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_VPC-E73D2f?style=flat&logo=VPC&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569a31?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_VPC-E73D2f?style=flat&logo=amazonaws&logoColor=white" />
+</div>
+
+<div>- OS : 
+	<img src="https://img.shields.io/badge/CentOS_7-569a31?Fstyle=flat&logo=linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/ubuntu-E73922?Fstyle=flat&logo=linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Rocky_9-165110??Fstyle=flat&logo=linux&logoColor=white" />
 </div>
   
   
