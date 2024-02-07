@@ -6,7 +6,7 @@
 - KT AIVLE School 3기에서 AI 생성의 모든과정(EDA/전처리/학습(생성)/검증)을 학습했고, AI 기반 웹 서비스를 개발해 최우수상 수상.
 - 프리온보딩 프론트엔드 인턴십을 통해 React, TypeScript 등 프론트엔드 심화과정을 학습.
 - 또한 프로젝트에서 배포 및 운영을 경험하여 AWS EC2/VPC/E3 활용이 가능하고, Linux(ubuntu)등의 OS를 활용해 클라우드 및 서버 관리가 가능.
-- Spring과 Flask를 이용한 Restful API를 제작 및 배포에 강점이 있는 백엔드/서버 개발자
+- Spring, Django, Flask를 이용한 Restful API를 제작 경험과 AWS 리눅스 환경에서의 웹 배포 경험을 통해 백엔드/서버 개발에 강점이 있는 개발자
   
   
 ## Skill  
