@@ -1,13 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Young's_GitHub!&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=#FFFFFF" />
 
 ## 간단한 소개
-
-- 정보통신공학을 전공. java로 여러 통신프로토콜을 구현하는 등의 경험을 하며 학부 연구생으로 활동. (+ 정보통신기사 취득)
-- KT AIVLE School 3기에서 AI 생성의 모든과정(EDA/전처리/학습(생성)/검증)을 학습했고, AI 기반 웹 서비스를 개발해 최우수상 수상.
-- 프리온보딩 프론트엔드 인턴십을 통해 React, TypeScript 등 프론트엔드 심화과정을 학습.
-- 또한 프로젝트에서 배포 및 운영을 경험하여 AWS EC2/VPC/E3 활용이 가능하고, Linux(ubuntu)등의 OS를 활용해 클라우드 및 서버 관리가 가능.
-- Spring, Django, Flask를 이용한 Restful API를 제작 경험과 AWS 리눅스 환경에서의 웹 배포 경험을 통해 백엔드/서버 개발에 강점이 있는 개발자
-  
+### 학력
+  - 정보통신전자공학 전공 (학사)
+### 2022
+  - 정보 통신 기사 자격 획득 - 2022
+### 2023
+  - KT AIVLE School 3기에서 AI 생성의 모든과정(EDA/전처리/학습(생성)/검증)을 학습 및 AI 기반 웹 서비스 개발 빅프로젝트 최우수상 수상
+  - 프리온보딩 프론트엔드 인턴십 수료
+  - 2023 KDT 해커톤 장려상 수상
+  - (주)Netman에서 네트워크 접근제어 정책 서버 개발 연구원으로 근무 시작 (~ 현재)
   
 ## Skill  
 
@@ -61,7 +63,7 @@
       
 ## Contect  
 
-- Email : jkll91183@naver.com  
+- Email : jkll91183@gmail.com
   
   
 #### 제 GitHub를 방문해주셔서 감사합니다.
